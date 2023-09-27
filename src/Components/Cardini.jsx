@@ -46,7 +46,7 @@ export const Cardini = () => {
   return (
     <Flex alignItems="center" justify="center" minHeight="100vh" flexDirection="column" id='fondo'>
     
-     <Card maxW='40vw' minW="400px" minH="300px" position="relative" display="flex" justifyContent="center" borderRadius="md" boxShadow="2xl" >
+     <Card maxW='40vw' minW="300px" minH="300px" position="relative" display="flex" justifyContent="center" borderRadius="md" boxShadow="2xl" >
      <Text  position="absolute" top="-22px" fontFamily="Dela Gothic One, cursive;" fontSize="25px" className='textaround' color="rgba(254,142,108)">Adri Weather</Text>
      <CardBody display="flex" alignContent="center" alignItems="center" justifyContent="center" flexDirection="column">        
         { 

@@ -24,7 +24,7 @@ export const ImgDisplay = ({ clima }) => {
       <motion.div initial={{opacity:0}} transition={{duration:3}}animate={{opacity:1}} exit={{opacity:5}} >
         <Image
           w="30vw"
-          minW="150px"
+          minW="250px"
           maxW="500px"
           maxH="500px"
           src={`${muestro}`}
