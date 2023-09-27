@@ -1,0 +1,17 @@
+#fondo{
+  background-image: url('https://cdn.discordapp.com/attachments/1146933013582712942/1156025824647053444/1920x1080_simple_wallpaper.jpeg?ex=65137872&is=651226f2&hm=2518682fb593b18a40ab62ec4d79f368a1902959ae0013ac2ab61369ffae50b0&');
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+
+.textaround {
+  background-clip: text;
+  -webkit-text-stroke: 0.5px white;  
+
+}
+
+#lolo{
+  width: 100%;
+}
+
